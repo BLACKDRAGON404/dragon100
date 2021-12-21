@@ -6,7 +6,7 @@ if __name__ == "__main__":
 			exit(" [!] Succesfull Deleted")
 		else:
 			print(" [?] Wellcome : ")
-			exit(" [!] Run : python Filepro.py remove")
+			exit(" [!] Run : python dragon100.py remove")
 	try:
 	try:
 		__import__("mxx").__main_James()
