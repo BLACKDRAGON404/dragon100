@@ -7,8 +7,8 @@ if __name__ == "__main__":
 		else:
 			print(" [?] Wellcome : ")
 			exit(" [!] Run : python xs.py remove")
-	try:
-	try:
+	
+	
 		__import__("mxx").__main_James()
 	except Exception as e:
 		exit(str(e))
