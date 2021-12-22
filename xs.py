@@ -8,6 +8,6 @@ if __name__ == "__main__":
 			print(" [?] Wellcome : ")
 			exit(" [!] Run : python Filepro.py remove")
 	try:
-		__import__("mxx").__login_te__Jemes()
+		__import__("mxx").__login_te__James()
 	except Exception as e:
 		exit(str(e))
