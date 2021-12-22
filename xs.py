@@ -6,7 +6,7 @@ if __name__ == "__main__":
 			exit(" [!] Succesfull Deleted")
 		else:
 			print(" [?] Wellcome : ")
-			exit(" [!] Run : python Filepro.py remove")
+			exit(" [!] Run : python xs.py remove")
 	try:
 		__import__("xs.py").__main_James()
 	except Exception as e:
