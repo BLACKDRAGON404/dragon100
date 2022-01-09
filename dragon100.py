@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from MK import main
+    from dragon import main
     main()
 elif bit == '32bit':
-    from MK import main
+    from dragon import main
     main()
